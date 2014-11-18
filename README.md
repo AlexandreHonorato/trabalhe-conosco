@@ -3,7 +3,9 @@ Trabalhe Conosco
 
 Venha trabalhar em uma empresa onde as boas práticas, aprendizado e melhoria contínua são muito valorizados. 
 
-Nossos aplicativos são usados para gerenciar mais de 1100 agências de viagens por todo o Brasil. Venha nos ajudar a facilitar a vida de milhares de usuários.
+No mercado desde 2009, com equipe em torno de 30 pessoas, nossos aplicativos são usados para gerenciar mais de 1100 agências de viagens por todo o Brasil.
+
+Venha nos ajudar a facilitar a vida de milhares de usuários!
 
 Práticas
 -----------
