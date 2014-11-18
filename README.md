@@ -7,7 +7,7 @@ Nossos aplicativos são usados para gerenciar mais de 1100 agências de viagens 
 
 Práticas
 -----------
-- **TDD** (Buscar ter testes automatizados para todo nosso código)
+- **TDD** (Buscamos ter testes automatizados para todo nosso código)
 - **PRDD** (Pull Request Driven Development, todo nosso código fica no GitHub. Todas as modificações são enviadas via Pull Request, onde são revisadas por pelo menos mais um dev e depois é feito merge para o projeto).
 - **Métodos ágeis** (Usamos boards Kanban para gerenciar nossos projetos, fazemos retrospectivas periódicas para melhorar os processos, entregamos com frequência)
 - **Automação** (builds automatizados, deploys automatizados, tudo o que for repetitivo, automatizamos)
