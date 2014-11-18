@@ -35,7 +35,7 @@ Ferramentas
 - [New Relic](http://newrelic.com/)
 - [Papertrail](https://papertrailapp.com/)
 
-**Quer usar suas ferramentas?** Sistema operacional, editores de código, você usa o que preferir na sua máquina.
+**Quer usar suas ferramentas?** Sistema operacional, editores de código, você usa o que preferir na sua máquina. Se precisar de licença, é por nossa conta.
 
 Livros e Cursos
 ------
