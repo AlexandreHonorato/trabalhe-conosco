@@ -51,6 +51,7 @@ Será responsável por:
 
 **Diferencial**
 - Experiência em hospedagem no Heroku
+- Frameworks JS client-side como Ember, Angular, etc.
 - Go
 
 Como é trabalhar na Monde?
