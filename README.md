@@ -7,7 +7,7 @@ Vagas abertas
 
 Desenvolvedor Delphi Sênior
 ---------------------------
-**8 horas / dia / seg à sex, remoto ou em Americana, SP**
+**8h/dia, seg a sex, remoto ou em Americana, SP**
 
 Será responsável por:
 
@@ -34,7 +34,7 @@ Será responsável por:
 
 Desenvolvedor Ruby on Rails
 ---------------------------
-**8 horas / dia / seg à sex, remoto ou em Americana, SP**
+**8h/dia, seg a sex, remoto ou em Americana, SP**
 
 Será responsável por:
 
