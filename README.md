@@ -12,9 +12,9 @@ Práticas
 - **Métodos ágeis** (Usamos boards Kanban para gerenciar nossos projetos, fazemos reuniões rápidas diárias para que todos estejam alinhados, retrospectivas periódicas para melhorar os processos e entregamos com frequência)
 - **Automação** (builds automatizados, deploys automatizados, tudo o que for repetitivo, automatizamos)
 - **Bug Zero** (corrigimos bugs antes de trabalhar em novas features)
-- **Trabalho Remoto** (entendemos que nem todos os desenvolvedores querem ou podem morar em [Americana](http://pt.wikipedia.org/wiki/Americana), então aceitamos trabalho remoto, sem problemas)
+- **Trabalho Remoto** (entendemos que nem todos os desenvolvedores querem ou podem morar em [Americana](http://pt.wikipedia.org/wiki/Americana), já somos um time distribuído e aceitamos trabalho remoto sem problemas)
 
-Linguagens
+Principais linguagens utilizadas
 ----------------
 - Delphi
 - Ruby (on Rails)
