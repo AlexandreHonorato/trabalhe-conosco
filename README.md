@@ -1,6 +1,6 @@
 Venha trabalhar em uma empresa onde as boas práticas, aprendizado e melhoria contínua são muito valorizados. 
 
-Nossas soluções são usados para gerenciar mais de 1200 agências de viagens por todo o Brasil! Número que aumenta a cada dia. Venha nos ajudar a facilitar a vida de milhares de usuários.
+Nossas soluções são usadas para gerenciar mais de 1200 agências de viagens por todo o Brasil! Número que aumenta a cada dia. Venha nos ajudar a facilitar a vida de milhares de usuários.
 
 Vagas abertas
 =============
