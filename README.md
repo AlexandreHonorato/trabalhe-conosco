@@ -58,7 +58,7 @@ Como é trabalhar na Monde?
 ==========================
 - **TDD** (Buscamos ter testes automatizados para todo nosso código)
 - **PRDD** (Pull Request Driven Development, todo nosso código fica no GitHub. Todas as modificações são enviadas via Pull Request, onde são revisadas por pelo menos mais um dev antes do merge para o projeto).
-- **Métodos ágeis** (Usamos boards Kanban para gerenciar nossos projetos, fazemos reuniões rápidas diárias para que todos estejam alinhados, retrospectivas periódicas para melhorar os processos e entregamos com frequência)
+- **Métodos ágeis sem frescura** (Usamos boards Kanban para gerenciar nossos projetos, atualizamos os colegas diaramente no que estamos trabalhando para que todos estejam alinhados, realizamos retrospectivas periódicas para melhorar os processos e entregamos com frequência)
 - **Automação** (builds automatizados, deploys automatizados, tudo o que for repetitivo, automatizamos)
 - **Bug Zero** (corrigimos bugs antes de trabalhar em novas features)
 - **Trabalho Remoto** (entendemos que nem todos os desenvolvedores querem ou podem morar em [Americana](http://pt.wikipedia.org/wiki/Americana), já somos um time distribuído e aceitamos trabalho remoto sem problemas)
@@ -75,14 +75,16 @@ Ferramentas
 - [Slack](https://slack.com)
 - [Trello](https://trello.com/)
 - [Bugsnag](https://bugsnag.com/)
+- [Codeship](https://codeship.com/)
 - [FinalBuilder + ContinuaCI](https://www.finalbuilder.com/continua-ci) para build dos projetos Delphi
-- [TravisCI](https://travis-ci.com) 
 - [HoundCI](https://houndci.com) 
 - [Code Climate](https://codeclimate.com) 
 - [Gemnasium](https://gemnasium.com) 
 - [Heroku](https://www.heroku.com)
 - [New Relic](http://newrelic.com/)
 - [Papertrail](https://papertrailapp.com/)
+- [ZenHub](https://www.zenhub.io/)
+- [AWS](http://aws.amazon.com/pt/) S3, EC2, RDS, etc.
 
 **Quer usar suas ferramentas?** Sistema operacional, editores de código, você usa o que preferir na sua máquina. Se precisar de licença, é por nossa conta.
 
