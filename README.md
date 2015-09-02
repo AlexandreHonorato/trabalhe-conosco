@@ -1,4 +1,4 @@
-Venha trabalhar em uma empresa onde as boas práticas, aprendizado e melhoria contínua são muito valorizados. 
+Venha trabalhar em uma empresa onde as boas práticas, aprendizado e melhoria contínua são muito valorizados.
 
 Nossas soluções são usadas para gerenciar mais de 1200 agências de viagens por todo o Brasil! Número que aumenta a cada dia. Venha nos ajudar a facilitar a vida de milhares de usuários.
 
@@ -27,7 +27,7 @@ Será responsável por:
 **Diferencial**
 
 - Certificação Delphi
-- Experiência com Firebird
+- Experiência com PostgreSQL
 - Ruby
 - Go
 - Desenvolvimento web em geral
@@ -50,7 +50,7 @@ Será responsável por:
 - Inglês avançado (leitura e escrita)
 
 **Diferencial**
-- Experiência em hospedagem no Heroku
+- Experiência em hospedagem no Heroku/AWS
 - Frameworks JS client-side como Ember, Angular, etc.
 - Go
 
@@ -75,16 +75,15 @@ Ferramentas
 - [Slack](https://slack.com)
 - [Trello](https://trello.com/)
 - [Bugsnag](https://bugsnag.com/)
-- [Codeship](https://codeship.com/)
+- [CircleCi](http://circleci.com)
 - [FinalBuilder + ContinuaCI](https://www.finalbuilder.com/continua-ci) para build dos projetos Delphi
-- [HoundCI](https://houndci.com) 
-- [Code Climate](https://codeclimate.com) 
-- [Gemnasium](https://gemnasium.com) 
+- [Code Climate](https://codeclimate.com)
+- [Gemnasium](https://gemnasium.com)
 - [Heroku](https://www.heroku.com)
 - [New Relic](http://newrelic.com/)
 - [Papertrail](https://papertrailapp.com/)
 - [ZenHub](https://www.zenhub.io/)
-- [AWS](http://aws.amazon.com/pt/) S3, EC2, RDS, etc.
+- [AWS](http://aws.amazon.com/pt/) S3, EC2, RDS, ElasticBeanstalk, ElastiCache, etc.
 
 **Quer usar suas ferramentas?** Sistema operacional, editores de código, você usa o que preferir na sua máquina. Se precisar de licença, é por nossa conta.
 
