@@ -82,7 +82,6 @@ Ferramentas
 - [Heroku](https://www.heroku.com)
 - [New Relic](http://newrelic.com/)
 - [Papertrail](https://papertrailapp.com/)
-- [ZenHub](https://www.zenhub.io/)
 - [AWS](http://aws.amazon.com/pt/) S3, EC2, RDS, ElasticBeanstalk, ElastiCache, etc.
 
 **Quer usar suas ferramentas?** Sistema operacional, editores de código, você usa o que preferir na sua máquina. Se precisar de licença, é por nossa conta.
