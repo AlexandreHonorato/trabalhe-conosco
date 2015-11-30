@@ -32,28 +32,6 @@ Será responsável por:
 - Go
 - Desenvolvimento web em geral
 
-Desenvolvedor Ruby on Rails
----------------------------
-**8h/dia, seg a sex, remoto ou em Americana, SP**
-
-Será responsável por:
-
-- Fazer parte de um time dev de primeira classe trabalhando em produto utilizado por milhares de usuários diariamente.
-- Desenvolver soluções em Ruby on Rails usando as melhores práticas e ferramentas de mercado.
-- Revisar código de outros desenvolvedores.
-- Ser 100% focado no trabalho, garantindo as entregas e a produtividade do time.
-
-**Obrigatório**
-
-- Ser bom no que faz
-- Ruby e Rails avançado
-- Inglês avançado (leitura e escrita)
-
-**Diferencial**
-- Experiência em hospedagem no Heroku/AWS
-- Frameworks JS client-side como Ember, Angular, etc.
-- Go
-
 Como é trabalhar na Monde?
 ==========================
 - **TDD** (Buscamos ter testes automatizados para todo nosso código)
