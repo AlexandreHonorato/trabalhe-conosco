@@ -1,6 +1,6 @@
 Venha trabalhar em uma empresa onde as boas práticas, aprendizado e melhoria contínua são muito valorizados.
 
-Nossas soluções são usadas para gerenciar mais de 1200 agências de viagens por todo o Brasil! Número que aumenta a cada dia. Venha nos ajudar a facilitar a vida de milhares de usuários.
+Nossas soluções são usadas para gerenciar mais de 1400 agências de viagens por todo o Brasil! Número que aumenta a cada dia. Venha nos ajudar a facilitar a vida de milhares de usuários.
 
 Vagas abertas
 =============
@@ -26,11 +26,16 @@ Será responsável por:
 
 **Diferencial**
 
-- Certificação Delphi
-- Experiência com PostgreSQL
 - Ruby
 - Go
 - Desenvolvimento web em geral
+- Experiencia com:
+  - PostgreSQL 
+  - Testes Automatizados
+  - TDD
+  - CleanCode
+  - API's REST/SOAP
+  - Multicamadas (Datasnap/mORMot)
 
 Como é trabalhar na Monde?
 ==========================
@@ -40,6 +45,7 @@ Como é trabalhar na Monde?
 - **Automação** (builds automatizados, deploys automatizados, tudo o que for repetitivo, automatizamos)
 - **Bug Zero** (corrigimos bugs antes de trabalhar em novas features)
 - **Trabalho Remoto** (entendemos que nem todos os desenvolvedores querem ou podem morar em [Americana](http://pt.wikipedia.org/wiki/Americana), já somos um time distribuído e aceitamos trabalho remoto sem problemas)
+- **Open Source Time** (Sexta-feira à tarde pode ser dedicada à projetos open source)
 
 Principais linguagens utilizadas
 ----------------
@@ -73,6 +79,10 @@ Participação em conferências
 -------
 - Incentivamos a participação em eventos e bancamos pelo menos uma participação por ano em qualquer lugar do Brasil.
 - Se você for palestrante, bancamos mais de uma. :)
+
+Remuneração
+-------
+A remuneração varia de R$4.000 a R$6.000 no formato PJ.
 
 Gostou?
 =======
