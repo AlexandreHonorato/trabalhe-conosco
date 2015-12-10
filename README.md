@@ -29,7 +29,7 @@ Será responsável por:
 - Ruby
 - Go
 - Desenvolvimento web em geral
-- Experiencia com:
+- Experiência com:
   - PostgreSQL 
   - Testes Automatizados
   - TDD
