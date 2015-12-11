@@ -5,7 +5,7 @@ Nossas soluções são usadas para gerenciar mais de 1400 agências de viagens p
 Vagas abertas
 =============
 
-Desenvolvedor Delphi Sênior
+Desenvolvedor Delphi
 ---------------------------
 **8h/dia, seg a sex, remoto ou em Americana, SP**
 
