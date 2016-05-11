@@ -12,10 +12,10 @@ Desenvolvedor Delphi
 Será responsável por:
 
 - Fazer parte de um time dev de primeira classe trabalhando em produto utilizado por milhares de usuários diariamente.
-- Manter nossas soluções em Delphi usando as melhores práticas de mercado, testes automatizados, código limpo e bem refatorado.
+- Manter nossas soluções em Delphi usando as melhores práticas de mercado, testes automatizados, código limpo e bem escrito.
 - Ajudar na migração dos produtos para plataforma híbrida Delphi + Web.
 - Revisar código de outros desenvolvedores.
-- Ser 100% focado no trabalho, garantindo as entregas e a produtividade do time.
+
 
 **Obrigatório**
 
@@ -31,6 +31,7 @@ Será responsável por:
 - Desenvolvimento web em geral
 - Experiência com:
   - PostgreSQL 
+  - Redis
   - Testes Automatizados
   - TDD
   - CleanCode
@@ -61,7 +62,6 @@ Ferramentas
 - [Bugsnag](https://bugsnag.com/)
 - [CircleCi](http://circleci.com)
 - [FinalBuilder + ContinuaCI](https://www.finalbuilder.com/continua-ci) para build dos projetos Delphi
-- [Code Climate](https://codeclimate.com)
 - [Gemnasium](https://gemnasium.com)
 - [Heroku](https://www.heroku.com)
 - [New Relic](http://newrelic.com/)
@@ -77,8 +77,7 @@ Livros e Cursos
 
 Participação em conferências
 -------
-- Incentivamos a participação em eventos e bancamos pelo menos uma participação por ano em qualquer lugar do Brasil.
-- Se você for palestrante, bancamos mais de uma. :)
+- Incentivamos a participação em eventos e bancamos 70% das despesas para sua participação por ano em qualquer lugar do Brasil.
 
 Remuneração
 -------
