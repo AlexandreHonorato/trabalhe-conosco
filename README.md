@@ -77,7 +77,8 @@ Livros e Cursos
 
 Participação em conferências
 -------
-- Incentivamos a participação em eventos e bancamos 70% das despesas de sua participação em qualquer lugar do Brasil.
+- Incentivamos a participação em eventos e bancamos pelo menos uma participação por ano em qualquer lugar do Brasil.
+- Se você for palestrante, bancamos mais de uma. :)
 
 Remuneração
 -------
