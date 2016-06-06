@@ -16,7 +16,6 @@ Será responsável por:
 - Ajudar na migração dos produtos para plataforma híbrida Delphi + Web.
 - Revisar código de outros desenvolvedores.
 
-
 **Obrigatório**
 
 - Ser bom no que faz
@@ -37,6 +36,31 @@ Será responsável por:
   - CleanCode
   - API's REST/SOAP
   - Multicamadas (Datasnap/mORMot)
+  
+Desenvolvedor Ruby on Rails
+---------------------------
+
+**8h/dia, seg a sex, remoto ou em Americana, SP**
+
+Será responsável por:
+
+- Fazer parte de um time dev de primeira classe trabalhando em produto utilizado por milhares de usuários diariamente.
+- Desenvolver soluções em Ruby on Rails usando as melhores práticas e ferramentas de mercado.
+- Revisar código de outros desenvolvedores.
+
+**Obrigatório**
+
+- Ser bom no que faz
+- Ruby e Rails avançado
+- Inglês avançado (leitura e escrita)
+
+**Diferencial**
+
+- Experiência com deploy no Heroku/AWS
+- Experiência com front-end
+- Frameworks JS client-side como Ember, Angular, etc.
+- Go
+- Elixir
 
 Como é trabalhar na Monde?
 ==========================
