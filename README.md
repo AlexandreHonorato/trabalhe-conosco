@@ -105,7 +105,7 @@ Participação em conferências
 
 Remuneração
 -------
-Até R$6.000 no formato PJ.
+Até R$ 7.000,00 no formato PJ.
 
 Gostou?
 =======
