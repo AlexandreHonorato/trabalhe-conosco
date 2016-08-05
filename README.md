@@ -64,7 +64,7 @@ Como é trabalhar na Monde?
 ==========================
 - **TDD** (Buscamos ter testes automatizados para todo nosso código)
 - **PRDD** (Pull Request Driven Development, todo nosso código fica no GitHub. Todas as modificações são enviadas via Pull Request, onde são revisadas por pelo menos mais um dev antes do merge para o projeto).
-- **Métodos ágeis sem frescura** (Usamos boards Kanban para gerenciar nossos projetos, atualizamos os colegas diaramente no que estamos trabalhando para que todos estejam alinhados, realizamos retrospectivas periódicas para melhorar os processos e entregamos com frequência)
+- **Métodos ágeis sem frescura** (Usamos boards Kanban para gerenciar nossos projetos, realizamos retrospectivas periódicas para melhorar os processos e entregamos com frequência)
 - **Automação** (builds automatizados, deploys automatizados, tudo o que for repetitivo, automatizamos)
 - **Bug Zero** (corrigimos bugs antes de trabalhar em novas features)
 - **Trabalho Remoto** (A Monde fica em [Americana](http://pt.wikipedia.org/wiki/Americana), mas somos um time distribuído e nossa equipe de desenvolvimento trabalha remotamente.)
