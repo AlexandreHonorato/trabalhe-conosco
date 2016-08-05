@@ -18,7 +18,6 @@ Será responsável por:
 
 **Obrigatório**
 
-- Ser bom no que faz
 - Delphi avançado
 - SQL avançado
 - Inglês avançado (leitura e escrita)
@@ -50,7 +49,6 @@ Será responsável por:
 
 **Obrigatório**
 
-- Ser bom no que faz
 - Ruby e Rails avançado
 - Inglês avançado (leitura e escrita)
 
@@ -97,16 +95,17 @@ Ferramentas
 Livros e Cursos
 ------
 - Livros, ebooks, etc? Por nossa conta.
-- Prefere cursos online, Code School, Pluralsight? Por nossa conta.
+- Prefere cursos online? Code School, Pluralsight? Por nossa conta.
 
 Participação em conferências
 -------
-- Incentivamos a participação em eventos e bancamos pelo menos uma participação por ano em qualquer lugar do Brasil.
-- Se você for palestrante, bancamos mais de uma. :)
+- Incentivamos a participação em eventos.
+- Reembolsamos 70% dos custos de cursos e eventos.
+- Se você for palestrante, bancamos todas as despesas.
 
 Remuneração
 -------
-A remuneração varia de R$4.000 a R$6.000 no formato PJ.
+Até R$6.000 no formato PJ.
 
 Gostou?
 =======
