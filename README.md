@@ -50,12 +50,12 @@ Será responsável por:
 **Obrigatório**
 
 - Ruby e Rails avançado
+- Experiência com deploy no Heroku/AWS
+- Experiência com front-end
 - Inglês avançado (leitura e escrita)
 
 **Diferencial**
 
-- Experiência com deploy no Heroku/AWS
-- Experiência com front-end
 - Frameworks JS client-side como Ember, Angular, etc.
 - Go
 - Elixir
@@ -67,7 +67,7 @@ Como é trabalhar na Monde?
 - **Métodos ágeis sem frescura** (Usamos boards Kanban para gerenciar nossos projetos, atualizamos os colegas diaramente no que estamos trabalhando para que todos estejam alinhados, realizamos retrospectivas periódicas para melhorar os processos e entregamos com frequência)
 - **Automação** (builds automatizados, deploys automatizados, tudo o que for repetitivo, automatizamos)
 - **Bug Zero** (corrigimos bugs antes de trabalhar em novas features)
-- **Trabalho Remoto** (entendemos que nem todos os desenvolvedores querem ou podem morar em [Americana](http://pt.wikipedia.org/wiki/Americana), já somos um time distribuído e aceitamos trabalho remoto sem problemas)
+- **Trabalho Remoto** (A Monde fica em [Americana](http://pt.wikipedia.org/wiki/Americana), mas somos um time distribuído e nossa equipe de desenvolvimento trabalha remotamente.)
 - **Open Source Time** (Sexta-feira à tarde pode ser dedicada à projetos open source)
 
 Principais linguagens utilizadas
