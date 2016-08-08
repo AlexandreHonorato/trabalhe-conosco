@@ -105,7 +105,8 @@ Participação em conferências
 
 Remuneração
 -------
-Até R$ 7.000,00 no formato PJ.
+- Até R$ 7.000,00 no formato PJ.
+- 30 dias de férias remuneradas/ano.
 
 Gostou?
 =======
